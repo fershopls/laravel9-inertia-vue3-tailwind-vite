@@ -1,5 +1,6 @@
 import {createApp, h} from 'vue'
 import {createInertiaApp} from '@inertiajs/vue3'
+import "../css/main.css";
 
 createInertiaApp({
     id: "app",
